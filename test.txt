@@ -1,0 +1,6 @@
+2023-04-02 10:41
+
+
+[{'name': 'Green men', 'year': '2099', 'length': '300', 'load': '800', 'crew': '16', 'distance': '13', 'engines': '3'}, {'name': 'Splash', 'year': '2069', 'length': '545', 'load': '200200', 'crew': '3',
+ 'distance': '29', 'engines': '7'}, {'name': 'Thunder', 'year': '2081', 'length': '190', 'load': '780', 'crew': '7', 'distance': '99', 'engines': '6'}]
+
